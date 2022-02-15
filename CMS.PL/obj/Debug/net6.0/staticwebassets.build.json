@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7Jo0T4dJdsi3/fW64FAa5Rh3zmOtESidiFcwZGHHgBA=",
+  "Source": "CMS.PL",
+  "BasePath": "_content/CMS.PL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "CMS.PL\\wwwroot",
+      "Source": "CMS.PL",
+      "ContentRoot": "C:\\Users\\kero\\source\\repos\\CMS\\CMS.PL\\wwwroot\\",
+      "BasePath": "_content/CMS.PL",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

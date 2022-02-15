@@ -1,0 +1,12 @@
+C:\Users\kero\source\repos\CMS\CMS.DAL\bin\Debug\net6.0\CMS.DAL.deps.json
+C:\Users\kero\source\repos\CMS\CMS.DAL\bin\Debug\net6.0\CMS.DAL.dll
+C:\Users\kero\source\repos\CMS\CMS.DAL\bin\Debug\net6.0\ref\CMS.DAL.dll
+C:\Users\kero\source\repos\CMS\CMS.DAL\bin\Debug\net6.0\CMS.DAL.pdb
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.csproj.AssemblyReference.cache
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.AssemblyInfoInputs.cache
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.AssemblyInfo.cs
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.dll
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\ref\CMS.DAL.dll
+C:\Users\kero\source\repos\CMS\CMS.DAL\obj\Debug\net6.0\CMS.DAL.pdb
